@@ -11,15 +11,20 @@ public class PlayerMovement : MonoBehaviour {
     private AudioSource footstepPlayer;
     [SerializeField] AudioClip[] grassSteps = new AudioClip[30];
     private TileManager tileManager;
+    private GameStatus gameStatus;  
 
     void Start(){
         playerBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         footstepPlayer = GetComponent<AudioSource>();
         tileManager = GameObject.FindObjectOfType<TileManager>();
+        gameStatus = GameObject.FindObjectOfType<GameStatus>();
         playerNumber++;
     }
     void Update() {
+        if(Input.GetKeyDown(KeyCode.Tab)){
+            gameStatus.toggleWaterCollider();
+        }
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
         //Debug.Log(movement.x + ", " + movement.y);
@@ -42,6 +47,6 @@ public class PlayerMovement : MonoBehaviour {
     }
     void FixedUpdate() {
         playerBody.MovePosition(playerBody.position + movement * speed * Time.fixedDeltaTime);
-        GameObject.Find("Player" + playerNumber + "Camera").transform.position = new Vector3(transform.position.x, transform.position.y, -1f);
+        GameObject.Find("Player" + playerNumber + "Camera").transform.position = new Vector3(transform.position.x, transform.position.y, -3f);
     }
 }

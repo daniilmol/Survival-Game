@@ -11,10 +11,13 @@ public class GameStatus : MonoBehaviour {
         
     }
 
-    void toggleWaterCollider(){
+    public void toggleWaterCollider(){
+        print("djkjkjk");
         GameObject collider = GameObject.Find("Starter Island Collider");
         if(collider.GetComponent<TilemapCollider2D>().enabled){
-
+            collider.GetComponent<TilemapCollider2D>().enabled = false;
+        }else{
+            collider.GetComponent<TilemapCollider2D>().enabled = true;
         }
     }
 }
