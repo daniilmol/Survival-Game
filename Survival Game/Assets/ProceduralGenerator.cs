@@ -6,14 +6,19 @@ public class ProceduralGenerator : MonoBehaviour {
     [SerializeField] float rockChance = 5f;
     [SerializeField] float stickChance = 0.3f;
     [SerializeField] Transform rock;
-
+    private TileManager tileManager;
     private GameObject[] grasses;
+    private ArrayList allRocks = new ArrayList();
 
     void Start() {
-        grasses = GameObject.FindGameObjectsWithTag("Grass");
-        for(int i = 0; i < grasses.Length; i++){
-            if(Random.Range(0, 100) <= rockChance){
-                Instantiate(rock, grasses[i].transform.position, Quaternion.identity);
+        tileManager = GameObject.FindObjectOfType<TileManager>();
+    }
+
+    public void spawnRocks(){
+        allRocks = tileManager.getAllTilePositions();
+        foreach(Vector2 position in allRocks){
+            if(Random.Range(0, 100) < rockChance){
+                Instantiate(rock, position, Quaternion.identity);
             }
         }
     }

@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour {
     void Update() {
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
-        //Debug.Log(movement.x + ", " + movement.y);
+        Debug.Log(movement.x + ", " + movement.y);
         if((movement.x != 0 || movement.y != 0) && !footstepPlayer.isPlaying){
             footstepPlayer.PlayOneShot(grassSteps[Random.Range(0, grassSteps.Length)]);
         }else if(movement.x == 0 && movement.y == 0){
