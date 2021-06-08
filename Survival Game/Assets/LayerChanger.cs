@@ -13,7 +13,6 @@ public class LayerChanger : MonoBehaviour {
     }
 
     void Update() {
-        Debug.Log(player.transform.position.y - transform.position.y);
         if(player.transform.position.y - transform.position.y < layerBuffer){
             GetComponent<SpriteRenderer>().sortingOrder = lowerPriorityLayer;
         }else{

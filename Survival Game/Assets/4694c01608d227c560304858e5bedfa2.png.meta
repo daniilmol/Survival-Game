@@ -1,0 +1,1590 @@
+fileFormatVersion: 2
+guid: e2d8dbf681233e7419ffd45706eecb21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4809053131224976361
+    second: 4694c01608d227c560304858e5bedfa2_0
+  - first:
+      213: -106013981850053649
+    second: 4694c01608d227c560304858e5bedfa2_1
+  - first:
+      213: -1832856052164699668
+    second: 4694c01608d227c560304858e5bedfa2_2
+  - first:
+      213: -3542718689598519865
+    second: 4694c01608d227c560304858e5bedfa2_3
+  - first:
+      213: -1546392159079218706
+    second: 4694c01608d227c560304858e5bedfa2_4
+  - first:
+      213: -4028374952405810972
+    second: 4694c01608d227c560304858e5bedfa2_5
+  - first:
+      213: -5491307905635614774
+    second: 4694c01608d227c560304858e5bedfa2_6
+  - first:
+      213: -2032358353715599692
+    second: 4694c01608d227c560304858e5bedfa2_7
+  - first:
+      213: -583318797116771155
+    second: 4694c01608d227c560304858e5bedfa2_8
+  - first:
+      213: 2621232629572828323
+    second: 4694c01608d227c560304858e5bedfa2_9
+  - first:
+      213: 2089492282188847771
+    second: 4694c01608d227c560304858e5bedfa2_10
+  - first:
+      213: 2228830658580742110
+    second: 4694c01608d227c560304858e5bedfa2_11
+  - first:
+      213: 5529890886103292916
+    second: 4694c01608d227c560304858e5bedfa2_12
+  - first:
+      213: -1930748683569046485
+    second: 4694c01608d227c560304858e5bedfa2_13
+  - first:
+      213: -6446596442600309381
+    second: 4694c01608d227c560304858e5bedfa2_14
+  - first:
+      213: 2145846244479453466
+    second: 4694c01608d227c560304858e5bedfa2_15
+  - first:
+      213: 8591734598441597387
+    second: 4694c01608d227c560304858e5bedfa2_16
+  - first:
+      213: 5482299405600586536
+    second: 4694c01608d227c560304858e5bedfa2_17
+  - first:
+      213: -2576962872550830972
+    second: 4694c01608d227c560304858e5bedfa2_18
+  - first:
+      213: 2594283099823443185
+    second: 4694c01608d227c560304858e5bedfa2_19
+  - first:
+      213: 5732226499207385541
+    second: 4694c01608d227c560304858e5bedfa2_20
+  - first:
+      213: 6735964088713128022
+    second: 4694c01608d227c560304858e5bedfa2_21
+  - first:
+      213: -8843350063725961526
+    second: 4694c01608d227c560304858e5bedfa2_22
+  - first:
+      213: -753828719046512679
+    second: 4694c01608d227c560304858e5bedfa2_23
+  - first:
+      213: 2276220537364407564
+    second: 4694c01608d227c560304858e5bedfa2_24
+  - first:
+      213: -7150329126702687305
+    second: 4694c01608d227c560304858e5bedfa2_25
+  - first:
+      213: -8530236991958563349
+    second: 4694c01608d227c560304858e5bedfa2_26
+  - first:
+      213: 7004620367232191310
+    second: 4694c01608d227c560304858e5bedfa2_27
+  - first:
+      213: 2878708424704833435
+    second: 4694c01608d227c560304858e5bedfa2_28
+  - first:
+      213: -5168293352509943339
+    second: 4694c01608d227c560304858e5bedfa2_29
+  - first:
+      213: -3926227527654327393
+    second: 4694c01608d227c560304858e5bedfa2_30
+  - first:
+      213: -7877349293001234461
+    second: 4694c01608d227c560304858e5bedfa2_31
+  - first:
+      213: -734888934172119635
+    second: 4694c01608d227c560304858e5bedfa2_32
+  - first:
+      213: 511093247869975741
+    second: 4694c01608d227c560304858e5bedfa2_33
+  - first:
+      213: -7899769800524189909
+    second: 4694c01608d227c560304858e5bedfa2_34
+  - first:
+      213: 1539494486680540652
+    second: 4694c01608d227c560304858e5bedfa2_35
+  - first:
+      213: 9122468162224326502
+    second: 4694c01608d227c560304858e5bedfa2_36
+  - first:
+      213: -4814321917756944336
+    second: 4694c01608d227c560304858e5bedfa2_37
+  - first:
+      213: 8345800257545312698
+    second: 4694c01608d227c560304858e5bedfa2_38
+  - first:
+      213: 926947033203167809
+    second: 4694c01608d227c560304858e5bedfa2_39
+  - first:
+      213: -2026474284502513864
+    second: 4694c01608d227c560304858e5bedfa2_40
+  - first:
+      213: -6723027647617872013
+    second: 4694c01608d227c560304858e5bedfa2_41
+  - first:
+      213: 7375314802454748936
+    second: 4694c01608d227c560304858e5bedfa2_42
+  - first:
+      213: -1201373002571839043
+    second: 4694c01608d227c560304858e5bedfa2_43
+  - first:
+      213: -5891913220208519296
+    second: 4694c01608d227c560304858e5bedfa2_44
+  - first:
+      213: 841965019052443798
+    second: 4694c01608d227c560304858e5bedfa2_45
+  - first:
+      213: -3076762404584420208
+    second: 4694c01608d227c560304858e5bedfa2_46
+  - first:
+      213: 2792526761667729441
+    second: 4694c01608d227c560304858e5bedfa2_47
+  - first:
+      213: -6762063401782894447
+    second: 4694c01608d227c560304858e5bedfa2_48
+  - first:
+      213: -4446403858917885406
+    second: 4694c01608d227c560304858e5bedfa2_49
+  - first:
+      213: 616846890341111468
+    second: 4694c01608d227c560304858e5bedfa2_50
+  - first:
+      213: 8436273947712246639
+    second: 4694c01608d227c560304858e5bedfa2_51
+  - first:
+      213: 7047036773384033196
+    second: 4694c01608d227c560304858e5bedfa2_52
+  - first:
+      213: -3390045515352051196
+    second: 4694c01608d227c560304858e5bedfa2_53
+  - first:
+      213: 7655757109418823834
+    second: 4694c01608d227c560304858e5bedfa2_54
+  - first:
+      213: -9057721593962872820
+    second: 4694c01608d227c560304858e5bedfa2_55
+  - first:
+      213: -5513432515888452663
+    second: 4694c01608d227c560304858e5bedfa2_56
+  - first:
+      213: -3060368156641279778
+    second: 4694c01608d227c560304858e5bedfa2_57
+  - first:
+      213: -2671485009833129502
+    second: 4694c01608d227c560304858e5bedfa2_58
+  - first:
+      213: -4420339482898681590
+    second: 4694c01608d227c560304858e5bedfa2_59
+  - first:
+      213: -6884616394177396201
+    second: 4694c01608d227c560304858e5bedfa2_60
+  - first:
+      213: -6132703300196040302
+    second: 4694c01608d227c560304858e5bedfa2_61
+  - first:
+      213: 6887542084278129537
+    second: 4694c01608d227c560304858e5bedfa2_62
+  - first:
+      213: 3154916434306147366
+    second: 4694c01608d227c560304858e5bedfa2_63
+  - first:
+      213: -4518453883872563925
+    second: 4694c01608d227c560304858e5bedfa2_64
+  - first:
+      213: -8335285366338144515
+    second: 4694c01608d227c560304858e5bedfa2_65
+  - first:
+      213: 6305733186295219530
+    second: 4694c01608d227c560304858e5bedfa2_66
+  - first:
+      213: 2772268407478460201
+    second: 4694c01608d227c560304858e5bedfa2_67
+  - first:
+      213: -4978951344853116653
+    second: 4694c01608d227c560304858e5bedfa2_68
+  - first:
+      213: 4878674628544754970
+    second: 4694c01608d227c560304858e5bedfa2_69
+  - first:
+      213: 8135489611176322453
+    second: 4694c01608d227c560304858e5bedfa2_70
+  - first:
+      213: 8265792733345554014
+    second: 4694c01608d227c560304858e5bedfa2_71
+  - first:
+      213: 5883845879421167792
+    second: 4694c01608d227c560304858e5bedfa2_72
+  - first:
+      213: -3608946010575510109
+    second: 4694c01608d227c560304858e5bedfa2_73
+  - first:
+      213: 8920403100175780946
+    second: 4694c01608d227c560304858e5bedfa2_74
+  - first:
+      213: -1366794737551040339
+    second: 4694c01608d227c560304858e5bedfa2_75
+  - first:
+      213: -4862604414975802760
+    second: 4694c01608d227c560304858e5bedfa2_76
+  - first:
+      213: 1329552428576495176
+    second: 4694c01608d227c560304858e5bedfa2_77
+  - first:
+      213: 5886750076007481142
+    second: 4694c01608d227c560304858e5bedfa2_78
+  - first:
+      213: 9214960932722932324
+    second: 4694c01608d227c560304858e5bedfa2_79
+  - first:
+      213: -764903376816779395
+    second: 4694c01608d227c560304858e5bedfa2_80
+  - first:
+      213: -5757056684893186324
+    second: 4694c01608d227c560304858e5bedfa2_81
+  - first:
+      213: 2137369269062964129
+    second: 4694c01608d227c560304858e5bedfa2_82
+  - first:
+      213: -2191902990453982791
+    second: 4694c01608d227c560304858e5bedfa2_83
+  - first:
+      213: -1157384169392280253
+    second: 4694c01608d227c560304858e5bedfa2_84
+  - first:
+      213: 7665976681630602665
+    second: 4694c01608d227c560304858e5bedfa2_85
+  - first:
+      213: -7408779421877575656
+    second: 4694c01608d227c560304858e5bedfa2_86
+  - first:
+      213: 5227682394980120056
+    second: 4694c01608d227c560304858e5bedfa2_87
+  - first:
+      213: -6839929332493949346
+    second: 4694c01608d227c560304858e5bedfa2_88
+  - first:
+      213: -3348776090847624997
+    second: 4694c01608d227c560304858e5bedfa2_89
+  - first:
+      213: 2366626875206695740
+    second: 4694c01608d227c560304858e5bedfa2_90
+  - first:
+      213: 3634154282660106721
+    second: 4694c01608d227c560304858e5bedfa2_91
+  - first:
+      213: -8108977934949993086
+    second: 4694c01608d227c560304858e5bedfa2_92
+  - first:
+      213: 253377024443380168
+    second: 4694c01608d227c560304858e5bedfa2_93
+  - first:
+      213: -3929861719262973133
+    second: 4694c01608d227c560304858e5bedfa2_94
+  - first:
+      213: 1410202981985674560
+    second: 4694c01608d227c560304858e5bedfa2_95
+  - first:
+      213: -5569297510216417231
+    second: 4694c01608d227c560304858e5bedfa2_96
+  - first:
+      213: 3131866389066514151
+    second: 4694c01608d227c560304858e5bedfa2_97
+  - first:
+      213: -1679652658074241447
+    second: 4694c01608d227c560304858e5bedfa2_98
+  - first:
+      213: 8400769438476782093
+    second: 4694c01608d227c560304858e5bedfa2_99
+  - first:
+      213: -656852501656130379
+    second: 4694c01608d227c560304858e5bedfa2_100
+  - first:
+      213: 5102697922164640985
+    second: 4694c01608d227c560304858e5bedfa2_101
+  - first:
+      213: -7809835392650553629
+    second: 4694c01608d227c560304858e5bedfa2_102
+  - first:
+      213: 7943771757727972426
+    second: 4694c01608d227c560304858e5bedfa2_103
+  - first:
+      213: 8600674876898604240
+    second: 4694c01608d227c560304858e5bedfa2_104
+  - first:
+      213: 6688357053154787500
+    second: 4694c01608d227c560304858e5bedfa2_105
+  - first:
+      213: 3817993759871301049
+    second: 4694c01608d227c560304858e5bedfa2_106
+  - first:
+      213: 791354600063204940
+    second: 4694c01608d227c560304858e5bedfa2_107
+  - first:
+      213: 485183908040378856
+    second: 4694c01608d227c560304858e5bedfa2_108
+  - first:
+      213: 7405391681731812113
+    second: 4694c01608d227c560304858e5bedfa2_109
+  - first:
+      213: 1801535290833919992
+    second: 4694c01608d227c560304858e5bedfa2_110
+  - first:
+      213: 6163180084138398372
+    second: 4694c01608d227c560304858e5bedfa2_111
+  - first:
+      213: 1241988291414232192
+    second: 4694c01608d227c560304858e5bedfa2_112
+  - first:
+      213: -7431223858633218829
+    second: 4694c01608d227c560304858e5bedfa2_113
+  - first:
+      213: -626905991246768316
+    second: 4694c01608d227c560304858e5bedfa2_114
+  - first:
+      213: -346641549243677773
+    second: 4694c01608d227c560304858e5bedfa2_115
+  - first:
+      213: -2858785150300281662
+    second: 4694c01608d227c560304858e5bedfa2_116
+  - first:
+      213: -5317159514379105811
+    second: 4694c01608d227c560304858e5bedfa2_117
+  - first:
+      213: 3898927407227543601
+    second: 4694c01608d227c560304858e5bedfa2_118
+  - first:
+      213: -9097226782768713817
+    second: 4694c01608d227c560304858e5bedfa2_119
+  - first:
+      213: 7372790971891085555
+    second: 4694c01608d227c560304858e5bedfa2_120
+  - first:
+      213: -443053033480973119
+    second: 4694c01608d227c560304858e5bedfa2_121
+  - first:
+      213: -5028487490842519358
+    second: 4694c01608d227c560304858e5bedfa2_122
+  - first:
+      213: -3398054835214044695
+    second: 4694c01608d227c560304858e5bedfa2_123
+  - first:
+      213: -1199937199103400138
+    second: 4694c01608d227c560304858e5bedfa2_124
+  - first:
+      213: -598361856954064675
+    second: 4694c01608d227c560304858e5bedfa2_125
+  - first:
+      213: 3578472569609766922
+    second: 4694c01608d227c560304858e5bedfa2_126
+  - first:
+      213: -8579180167271760990
+    second: 4694c01608d227c560304858e5bedfa2_127
+  - first:
+      213: -6335107988976302738
+    second: 4694c01608d227c560304858e5bedfa2_128
+  - first:
+      213: 2416009506505442114
+    second: 4694c01608d227c560304858e5bedfa2_129
+  - first:
+      213: -3208566408374972232
+    second: 4694c01608d227c560304858e5bedfa2_130
+  - first:
+      213: 3099485227082669196
+    second: 4694c01608d227c560304858e5bedfa2_131
+  - first:
+      213: -1477705682736383536
+    second: 4694c01608d227c560304858e5bedfa2_132
+  - first:
+      213: 6461123506127219884
+    second: 4694c01608d227c560304858e5bedfa2_133
+  - first:
+      213: -7140400129868747160
+    second: 4694c01608d227c560304858e5bedfa2_134
+  - first:
+      213: 2756914956921646821
+    second: 4694c01608d227c560304858e5bedfa2_135
+  - first:
+      213: 42773122798766950
+    second: 4694c01608d227c560304858e5bedfa2_136
+  - first:
+      213: -4386009457414054775
+    second: 4694c01608d227c560304858e5bedfa2_137
+  - first:
+      213: -1551025226516998877
+    second: 4694c01608d227c560304858e5bedfa2_138
+  - first:
+      213: -8110660712592655892
+    second: 4694c01608d227c560304858e5bedfa2_139
+  - first:
+      213: 5793018330556022292
+    second: 4694c01608d227c560304858e5bedfa2_140
+  - first:
+      213: -3740611136533522208
+    second: 4694c01608d227c560304858e5bedfa2_141
+  - first:
+      213: 2626556831853220880
+    second: 4694c01608d227c560304858e5bedfa2_142
+  - first:
+      213: 8282135252998606625
+    second: 4694c01608d227c560304858e5bedfa2_143
+  - first:
+      213: 6342467263994755104
+    second: 4694c01608d227c560304858e5bedfa2_144
+  - first:
+      213: -2122819505485372495
+    second: 4694c01608d227c560304858e5bedfa2_145
+  - first:
+      213: 5504769060751039374
+    second: 4694c01608d227c560304858e5bedfa2_146
+  - first:
+      213: 1123728343782036594
+    second: 4694c01608d227c560304858e5bedfa2_147
+  - first:
+      213: -6673768495964762204
+    second: 4694c01608d227c560304858e5bedfa2_148
+  - first:
+      213: 5710867433478730723
+    second: 4694c01608d227c560304858e5bedfa2_149
+  - first:
+      213: -5797496236493031005
+    second: 4694c01608d227c560304858e5bedfa2_150
+  - first:
+      213: -8454041326133203212
+    second: 4694c01608d227c560304858e5bedfa2_151
+  - first:
+      213: 5416352222492718834
+    second: 4694c01608d227c560304858e5bedfa2_152
+  - first:
+      213: 2289066609688952759
+    second: 4694c01608d227c560304858e5bedfa2_153
+  - first:
+      213: 6208381348221276759
+    second: 4694c01608d227c560304858e5bedfa2_154
+  - first:
+      213: 4867610288393273654
+    second: 4694c01608d227c560304858e5bedfa2_155
+  - first:
+      213: 469428450913118930
+    second: 4694c01608d227c560304858e5bedfa2_156
+  - first:
+      213: 8957963693531769510
+    second: 4694c01608d227c560304858e5bedfa2_157
+  - first:
+      213: -6748645355966612867
+    second: 4694c01608d227c560304858e5bedfa2_158
+  - first:
+      213: -4855080795022705441
+    second: 4694c01608d227c560304858e5bedfa2_159
+  - first:
+      213: 2902640449382445687
+    second: 4694c01608d227c560304858e5bedfa2_160
+  - first:
+      213: -8921023257553133328
+    second: 4694c01608d227c560304858e5bedfa2_161
+  - first:
+      213: 1008552743634032373
+    second: 4694c01608d227c560304858e5bedfa2_162
+  - first:
+      213: -8638863744525807151
+    second: 4694c01608d227c560304858e5bedfa2_163
+  - first:
+      213: -8779595242059916770
+    second: 4694c01608d227c560304858e5bedfa2_164
+  - first:
+      213: -1680025099449132568
+    second: 4694c01608d227c560304858e5bedfa2_165
+  - first:
+      213: -931288129015096481
+    second: 4694c01608d227c560304858e5bedfa2_166
+  - first:
+      213: -8905164093136061543
+    second: 4694c01608d227c560304858e5bedfa2_167
+  - first:
+      213: -23723406895749645
+    second: 4694c01608d227c560304858e5bedfa2_168
+  - first:
+      213: -1397662813735019563
+    second: 4694c01608d227c560304858e5bedfa2_169
+  - first:
+      213: 7385618095969241006
+    second: 4694c01608d227c560304858e5bedfa2_170
+  - first:
+      213: 7467482601935652343
+    second: 4694c01608d227c560304858e5bedfa2_171
+  - first:
+      213: 783313692771576755
+    second: 4694c01608d227c560304858e5bedfa2_172
+  - first:
+      213: 6551120714618373420
+    second: 4694c01608d227c560304858e5bedfa2_173
+  - first:
+      213: -4514761318763651222
+    second: 4694c01608d227c560304858e5bedfa2_174
+  - first:
+      213: 8263666138248607859
+    second: 4694c01608d227c560304858e5bedfa2_175
+  - first:
+      213: -6684054527123324292
+    second: 4694c01608d227c560304858e5bedfa2_176
+  - first:
+      213: 5087717085836402284
+    second: 4694c01608d227c560304858e5bedfa2_177
+  - first:
+      213: -3056947826736738937
+    second: 4694c01608d227c560304858e5bedfa2_178
+  - first:
+      213: 2616973464469159584
+    second: 4694c01608d227c560304858e5bedfa2_179
+  - first:
+      213: 1138479429455501830
+    second: 4694c01608d227c560304858e5bedfa2_180
+  - first:
+      213: 941582422361777077
+    second: 4694c01608d227c560304858e5bedfa2_181
+  - first:
+      213: -4326429065815686124
+    second: 4694c01608d227c560304858e5bedfa2_182
+  - first:
+      213: -3365067141404191472
+    second: 4694c01608d227c560304858e5bedfa2_183
+  - first:
+      213: -7109535830020597702
+    second: 4694c01608d227c560304858e5bedfa2_184
+  - first:
+      213: -7097245721800509775
+    second: 4694c01608d227c560304858e5bedfa2_185
+  - first:
+      213: 675272738038482277
+    second: 4694c01608d227c560304858e5bedfa2_186
+  - first:
+      213: 2554237485342435606
+    second: 4694c01608d227c560304858e5bedfa2_187
+  - first:
+      213: -3449305304198436701
+    second: 4694c01608d227c560304858e5bedfa2_188
+  - first:
+      213: -3575955950724297257
+    second: 4694c01608d227c560304858e5bedfa2_189
+  - first:
+      213: 1450734480069444663
+    second: 4694c01608d227c560304858e5bedfa2_190
+  - first:
+      213: 1890109213389294505
+    second: 4694c01608d227c560304858e5bedfa2_191
+  - first:
+      213: 6809862868292436486
+    second: 4694c01608d227c560304858e5bedfa2_192
+  - first:
+      213: -1681334175814635789
+    second: 4694c01608d227c560304858e5bedfa2_193
+  - first:
+      213: 941017300088148629
+    second: 4694c01608d227c560304858e5bedfa2_194
+  - first:
+      213: 3715580757431097060
+    second: 4694c01608d227c560304858e5bedfa2_195
+  - first:
+      213: 4648266840624141984
+    second: 4694c01608d227c560304858e5bedfa2_196
+  - first:
+      213: 8438437883175748501
+    second: 4694c01608d227c560304858e5bedfa2_197
+  - first:
+      213: -3573462442591579985
+    second: 4694c01608d227c560304858e5bedfa2_198
+  - first:
+      213: 2655514013731253273
+    second: 4694c01608d227c560304858e5bedfa2_199
+  - first:
+      213: -2014591378192715334
+    second: 4694c01608d227c560304858e5bedfa2_200
+  - first:
+      213: -4500976520523557003
+    second: 4694c01608d227c560304858e5bedfa2_201
+  - first:
+      213: -2836884398330870949
+    second: 4694c01608d227c560304858e5bedfa2_202
+  - first:
+      213: -5287085484042440874
+    second: 4694c01608d227c560304858e5bedfa2_203
+  - first:
+      213: -1401243305984632339
+    second: 4694c01608d227c560304858e5bedfa2_204
+  - first:
+      213: -3138391072437622384
+    second: 4694c01608d227c560304858e5bedfa2_205
+  - first:
+      213: -7296725478282806585
+    second: 4694c01608d227c560304858e5bedfa2_206
+  - first:
+      213: -160326249661223087
+    second: 4694c01608d227c560304858e5bedfa2_207
+  - first:
+      213: 1585008366270611584
+    second: 4694c01608d227c560304858e5bedfa2_208
+  - first:
+      213: -1143331616406338086
+    second: 4694c01608d227c560304858e5bedfa2_209
+  - first:
+      213: 6537309700419601896
+    second: 4694c01608d227c560304858e5bedfa2_210
+  - first:
+      213: -6184575691690059382
+    second: 4694c01608d227c560304858e5bedfa2_211
+  - first:
+      213: -2100893193280088544
+    second: 4694c01608d227c560304858e5bedfa2_212
+  - first:
+      213: 5545746067129891520
+    second: 4694c01608d227c560304858e5bedfa2_213
+  - first:
+      213: 3110020765740943766
+    second: 4694c01608d227c560304858e5bedfa2_214
+  - first:
+      213: -8887629090065569036
+    second: 4694c01608d227c560304858e5bedfa2_215
+  - first:
+      213: 471336144802828768
+    second: 4694c01608d227c560304858e5bedfa2_216
+  - first:
+      213: -5984427560643424034
+    second: 4694c01608d227c560304858e5bedfa2_217
+  - first:
+      213: 2257066558852782690
+    second: 4694c01608d227c560304858e5bedfa2_218
+  - first:
+      213: 6321822764364913584
+    second: 4694c01608d227c560304858e5bedfa2_219
+  - first:
+      213: -2258095980855775440
+    second: 4694c01608d227c560304858e5bedfa2_220
+  - first:
+      213: -2021586421603903580
+    second: 4694c01608d227c560304858e5bedfa2_221
+  - first:
+      213: -5958395424175682756
+    second: 4694c01608d227c560304858e5bedfa2_222
+  - first:
+      213: -5633708393639442152
+    second: 4694c01608d227c560304858e5bedfa2_223
+  - first:
+      213: -6898756625613859050
+    second: 4694c01608d227c560304858e5bedfa2_224
+  - first:
+      213: -4771689371903089377
+    second: 4694c01608d227c560304858e5bedfa2_225
+  - first:
+      213: 6525190886047481903
+    second: 4694c01608d227c560304858e5bedfa2_226
+  - first:
+      213: -8517442385791447289
+    second: 4694c01608d227c560304858e5bedfa2_227
+  - first:
+      213: -8180830628588727038
+    second: 4694c01608d227c560304858e5bedfa2_228
+  - first:
+      213: -3275540523924803117
+    second: 4694c01608d227c560304858e5bedfa2_229
+  - first:
+      213: 456138248232597307
+    second: 4694c01608d227c560304858e5bedfa2_230
+  - first:
+      213: -7079940923781401679
+    second: 4694c01608d227c560304858e5bedfa2_231
+  - first:
+      213: -4864118147232941010
+    second: 4694c01608d227c560304858e5bedfa2_232
+  - first:
+      213: 8536427273868803617
+    second: 4694c01608d227c560304858e5bedfa2_233
+  - first:
+      213: 6611246099899712934
+    second: 4694c01608d227c560304858e5bedfa2_234
+  - first:
+      213: 3827046228521331072
+    second: 4694c01608d227c560304858e5bedfa2_235
+  - first:
+      213: -8901228616993152029
+    second: 4694c01608d227c560304858e5bedfa2_236
+  - first:
+      213: -1180476212536066714
+    second: 4694c01608d227c560304858e5bedfa2_237
+  - first:
+      213: 2945465953914679061
+    second: 4694c01608d227c560304858e5bedfa2_238
+  - first:
+      213: 3810928540048157797
+    second: 4694c01608d227c560304858e5bedfa2_239
+  - first:
+      213: -6086133172930708446
+    second: 4694c01608d227c560304858e5bedfa2_240
+  - first:
+      213: -8698271403692719935
+    second: 4694c01608d227c560304858e5bedfa2_241
+  - first:
+      213: -194194911985782839
+    second: 4694c01608d227c560304858e5bedfa2_242
+  - first:
+      213: -1512418376195105877
+    second: 4694c01608d227c560304858e5bedfa2_243
+  - first:
+      213: -2311967786020631889
+    second: 4694c01608d227c560304858e5bedfa2_244
+  - first:
+      213: -3175449671186613548
+    second: 4694c01608d227c560304858e5bedfa2_245
+  - first:
+      213: 5963289928249563805
+    second: 4694c01608d227c560304858e5bedfa2_246
+  - first:
+      213: 3953508484059783999
+    second: 4694c01608d227c560304858e5bedfa2_247
+  - first:
+      213: 3088040137124968563
+    second: 4694c01608d227c560304858e5bedfa2_248
+  - first:
+      213: -8053203199667775208
+    second: 4694c01608d227c560304858e5bedfa2_249
+  - first:
+      213: -5637337526785622407
+    second: 4694c01608d227c560304858e5bedfa2_250
+  - first:
+      213: 4385901195957501179
+    second: 4694c01608d227c560304858e5bedfa2_251
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 321
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714fa5718afc24db0800000000000000
+      internalID: -4809053131224976361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35a9e58dc578ef0800000000000000
+      internalID: -106013981850053649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 484
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95c46a1236096e0800000000000000
+      internalID: -1832856052164699668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 484
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c7573f1cb5dec0800000000000000
+      internalID: -3542718689598519865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 416
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee142a2468c1a8ae0800000000000000
+      internalID: -1546392159079218706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 450
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e045c3f2565818c0800000000000000
+      internalID: -4028374952405810972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 456
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7b44dd84fac3b0800000000000000
+      internalID: -5491307905635614774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 450
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6eb7e58dc9bc3e0800000000000000
+      internalID: -2032358353715599692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 417
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4fb0305a2a7e7f0800000000000000
+      internalID: -583318797116771155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 419
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf95f403d706420800000000000000
+      internalID: 2621232629572828323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 421
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a59c8f82e5ffc10800000000000000
+      internalID: 2089492282188847771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 320
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf7435dca56eee10800000000000000
+      internalID: 2228830658580742110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 288
+        width: 33
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5bd8567e1ebc40800000000000000
+      internalID: 5529890886103292916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 320
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c50554d4a9435e0800000000000000
+      internalID: -1930748683569046485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 127
+        width: 140
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df284e0b61986a0800000000000000
+      internalID: -6446596442600309381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 289
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19cdc84ac397cd10800000000000000
+      internalID: 2145846244479453466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97b88a819fb3770800000000000000
+      internalID: 8591734598441597387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 130
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b782f434a051c40800000000000000
+      internalID: 5482299405600586536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 128
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ccc36bbe9cc3cd0800000000000000
+      internalID: -2576962872550830972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc86c3fbbeb00420800000000000000
+      internalID: 2594283099823443185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1565161a5fc8f40800000000000000
+      internalID: 5732226499207385541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 98
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a88766a3fa7d50800000000000000
+      internalID: 6735964088713128022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 95
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9f2b98fb164580800000000000000
+      internalID: -8843350063725961526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfaeb326ccd985f0800000000000000
+      internalID: -753828719046512679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ed00d482c69f10800000000000000
+      internalID: 2276220537364407564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd1c71b8de4cc90800000000000000
+      internalID: -7150329126702687305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c964a6a28e9980800000000000000
+      internalID: -8530236991958563349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b4757ac19653160800000000000000
+      internalID: 7004620367232191310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 71
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b47a6f0a33f720800000000000000
+      internalID: 2878708424704833435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d1a424988648b0800000000000000
+      internalID: -5168293352509943339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 35
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bbdca9ddc3389c0800000000000000
+      internalID: -3926227527654327393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7acf2dd880ea290800000000000000
+      internalID: -7877349293001234461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad2e4178662dc5f0800000000000000
+      internalID: -734888934172119635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4694c01608d227c560304858e5bedfa2_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 7
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcf36ed994c71700800000000000000
+      internalID: 511093247869975741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
