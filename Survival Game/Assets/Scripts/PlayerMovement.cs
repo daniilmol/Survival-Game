@@ -28,6 +28,14 @@ public class PlayerMovement : MonoBehaviour {
         }else if(movement.x == 0 && movement.y == 0){
             //footstepPlayer.Stop();
         }
+        if(movement.x != 0 && movement.y != 0)
+        {
+            speed = (5f -2.07067811865475f);
+        }
+        else
+        {
+            speed = 5f;
+        }
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);

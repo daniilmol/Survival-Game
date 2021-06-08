@@ -25,7 +25,7 @@ public class TileManager : MonoBehaviour {
 
     void Update() {
         if(finished){
-            generator.spawnRocks();
+            generator.spawnResources();
             finished = false;
         }
     }

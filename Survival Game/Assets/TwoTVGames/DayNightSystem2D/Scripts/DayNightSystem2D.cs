@@ -106,7 +106,7 @@ public class DayNightSystem2D : MonoBehaviour
 
         // Midnight state
         if(dayCycle == DayCycles.Midnight)
-            globalLight.color = Color.Lerp(midnight, day, percent);     
+            globalLight.color = Color.Lerp(midnight, sunrise, percent);     
      }
 
      void ControlLightMaps(bool status)
