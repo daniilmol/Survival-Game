@@ -60,4 +60,20 @@ public class TileManager : MonoBehaviour {
         }
         return validPositions;
     }
+    public bool waterAhead(float xDir, float yDir){
+        Vector3Int gridPos = map.WorldToCell(new Vector2(xDir, yDir));
+        TileBase tile = map.GetTile(gridPos);
+        if(tile != null){
+            try{
+                float stepCode = dataFromTiles[tile].footstepCode;
+                if(stepCode == 3){
+                    return true;
+                }
+            }catch(KeyNotFoundException e){
+            }
+        }else{
+            Debug.Log("null");
+        }
+        return false;
+    }
 }
