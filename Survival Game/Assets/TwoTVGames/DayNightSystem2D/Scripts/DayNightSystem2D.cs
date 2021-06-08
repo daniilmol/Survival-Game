@@ -57,10 +57,13 @@ public class DayNightSystem2D : MonoBehaviour
     [Tooltip("Objects to turn on and off based on day night cycles, you can use this example for create some custom stuffs")]
     public Light2D[] mapLights; // enable/disable in day/night states
 
+    RainGenerator rainGenerator;
+
     void Start() 
     {
         dayCycle = DayCycles.Sunrise; // start with sunrise state
         globalLight.color = sunrise; // start global color at sunrise
+        rainGenerator = GameObject.FindObjectOfType<RainGenerator>();
     }
 
      void Update()
@@ -73,6 +76,7 @@ public class DayNightSystem2D : MonoBehaviour
         {
             cycleCurrentTime = 0; // back to 0 (restarting cycle time)
             dayCycle++; // change cycle state
+            rainGenerator.rainCheck();
         }
 
         // If reach final state we back to sunrise (Enum id 0)
