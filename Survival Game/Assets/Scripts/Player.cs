@@ -10,6 +10,7 @@ public class Player : MonoBehaviour {
     [SerializeField] float hungerRate = 1f;
     [SerializeField] HealthBar healthBar;
     [SerializeField] HealthBar foodBar;
+    [SerializeField] InventoryObject inventory;
 
     void Start() {
         health = maxHealth;
@@ -33,5 +34,17 @@ public class Player : MonoBehaviour {
     public void damage(int damage){
         health -= damage;
         healthBar.setSliderValue(health);
+    }
+
+    public void OnTriggerEnter2D(Collider2D other){
+        Debug.Log("Trigger entered");
+        var item = other.GetComponent<Item>();
+        if(item){
+            inventory.addItem(item.item, 1);
+            Destroy(other.gameObject);
+        }
+    }
+    private void OnApplicationQuit() {
+        inventory.Container.Clear();    
     }
 }

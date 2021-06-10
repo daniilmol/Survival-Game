@@ -7,7 +7,6 @@ public class HealthBar : MonoBehaviour {
     [SerializeField] Gradient gradient;
     [SerializeField] Image fill;
     public void setSliderValue(float value){
-        Debug.Log("Setting value to " + value);
         slider.value = value;
         fill.color = gradient.Evaluate(slider.normalizedValue);
     }
